@@ -5,15 +5,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mit-patel" alt="mit-patel" /></a> </p> -->
 
-- 📫 Hey, I m Pre-Final Year B-Tech - CSE Student from **Rashtriya Raksha University, Gandhinagar, Gujarat**.
+📫 Hey, I m Pre-Final Year B-Tech - CSE Student from **Rashtriya Raksha University, Gandhinagar, Gujarat**.
 
-- 👨‍💻 I am also interested in Cyber Security (Offensive).
+👨‍💻 I am also interested in Cyber Security (Offensive).
 
-- 🌱 I’m currently learning **Secure Coding, CI/CD and Secure API Development**
+🌱 I’m currently learning **Secure Coding, CI/CD and Secure API Development**
 
-- 💬 Ask me about **Web Development, DialogFlow, Desktop Application Development, Mobile App Development, CTF**
+💬 Ask me about **Web Development, DialogFlow, Desktop Application Development, Mobile App Development, CTF**
 
-- 📫 How to reach me **patelmit2012@gmail.com**
+📫 How to reach me? **patelmit2012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
