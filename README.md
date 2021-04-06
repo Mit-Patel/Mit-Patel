@@ -80,6 +80,7 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
+<h3 align="left">GitHub Stats</h3>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mit-patel&show_icons=true&locale=en" alt="mit-patel" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mit-patel&locale=en&hide=html,css" alt="mit-patel" />
