@@ -83,7 +83,7 @@
 <h2 align="left">GitHub Stats</h2>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mit-patel&show_icons=true&locale=en&count_private=true" alt="mit-patel" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mit-patel&locale=en&hide=html,css&langs_count=8" alt="mit-patel" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mit-patel&locale=en&hide=html,css&langs_count=10" alt="mit-patel" />
 </div>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mit-patel&" alt="mit-patel" />
