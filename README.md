@@ -86,4 +86,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mit-patel&locale=en&hide=html,css&langs_count=10" alt="mit-patel" />
 </div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mit-patel&" alt="mit-patel" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mit-patel&" alt="mit-patel" />
