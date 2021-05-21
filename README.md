@@ -91,3 +91,4 @@
 </div>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mit-patel&" alt="mit-patel" />
+![mit-patel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mit-patel&layout=compact&theme=nord&hide_border=true&custom_title=Other%20Stats)
