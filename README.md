@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mit-patel" alt="mit-patel" /></a> </p> -->
 
-📫 Hey, I m Pre-Final Year B-Tech - CSE Student from **Rashtriya Raksha University, Gandhinagar, Gujarat**.
+📫 Hey, I m Final Year B-Tech - CSE Student from **Rashtriya Raksha University, Gandhinagar, Gujarat**.
 
 👨‍💻 I am also interested in Cyber Security (Offensive).
 
